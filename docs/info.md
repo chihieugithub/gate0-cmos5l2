@@ -8,13 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+Adds the 8-bit inputs on ui_in and uio_in and puts the sum on uo_out.
 
 ## How to test
-
-Explain how to use your project
-
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Set values on the input pins and check that uo_out equals their sum.
